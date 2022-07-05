@@ -1,0 +1,15 @@
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\bin\Debug\net6.0\TodebOdev2.exe
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\bin\Debug\net6.0\TodebOdev2.deps.json
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\bin\Debug\net6.0\TodebOdev2.runtimeconfig.json
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\bin\Debug\net6.0\TodebOdev2.dll
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\bin\Debug\net6.0\ref\TodebOdev2.dll
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\bin\Debug\net6.0\TodebOdev2.pdb
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\obj\Debug\net6.0\TodebOdev2.csproj.AssemblyReference.cache
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\obj\Debug\net6.0\TodebOdev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\obj\Debug\net6.0\TodebOdev2.AssemblyInfoInputs.cache
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\obj\Debug\net6.0\TodebOdev2.AssemblyInfo.cs
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\obj\Debug\net6.0\TodebOdev2.csproj.CoreCompileInputs.cache
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\obj\Debug\net6.0\TodebOdev2.dll
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\obj\Debug\net6.0\ref\TodebOdev2.dll
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\obj\Debug\net6.0\TodebOdev2.pdb
+C:\Users\pantheon\Source\Repos\odev-2-huseyinafsin\TodebOdev2\obj\Debug\net6.0\TodebOdev2.genruntimeconfig.cache
